@@ -20,9 +20,15 @@ Welcome to Web3 ChatGPT, a revolutionary project that combines decentralized tec
 
 
 
-## Features:
+https://github.com/Satyam5665/Web3GPT/assets/96643434/95d20507-7d18-4de7-8ad2-f6c07601d5d4
 
-- **Decentralized Chat:** Leverage the benefits of blockchain for secure and transparent conversations.
+
+https://github.com/Satyam5665/Web3GPT/assets/96643434/e9e116ec-37d4-446d-afaf-b915007e35e2
+
+
+
+
+## Features:
 
 - **Subscription-Based Model:** Utilize Web3 for secure subscription management and payments.
 
