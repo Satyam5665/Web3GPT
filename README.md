@@ -20,6 +20,10 @@ Welcome to Web3 ChatGPT, a revolutionary project that combines decentralized tec
 
 
 
+https://github.com/Satyam5665/Web3GPT/assets/96643434/f8bd6c00-39ab-4370-a18e-505a8f1aad4f
+
+
+
 https://github.com/Satyam5665/Web3GPT/assets/96643434/95d20507-7d18-4de7-8ad2-f6c07601d5d4
 
 
